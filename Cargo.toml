@@ -1,0 +1,8 @@
+[package]
+name = "huffman"
+version = "0.1.0"
+authors = ["einzigartigerName <nelson.gillo@gmx.de>"]
+edition = "2018"
+
+[dependencies]
+bitwise-io = "0.1.2"
